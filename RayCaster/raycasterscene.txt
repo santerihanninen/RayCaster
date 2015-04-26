@@ -1,0 +1,27 @@
+field of view     = 110
+resolution width  = 400
+resolution height = 300
+ceiling height    = 2
+camera height     = 0.6
+render limit      = 8
+
+MAP =
+XXXXXXXXXXXXXXXXXXX
+XXXXX             X
+XXXXX X X X X XXX X
+XXXXX X       X   X
+XXXXX X X   X X XXX
+XXXXX X       X XXX
+X   X X X   X X   X
+X X   X       X   X
+X   XXX X   X X   X
+XXXXXXX       X   X
+X    XX X   X X   X
+X    XX       XX XX
+X    XXXXX XXXXX XX
+XXXX X   X X     XX
+XXXX    WX X   XXXX
+XXXX X   X X   XXXX
+XXXX XXXXX XX XXXXX
+XXXX          XXXXX
+XXXXXXXXXXXXXXXXXXX
